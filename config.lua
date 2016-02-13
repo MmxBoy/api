@@ -1,19 +1,17 @@
 return {
-	bot_api_key = '131840449:AAEPrE6hQ4cc-cY824MTa5Bwu03DloqeH5M',
+	bot_api_key = '199440252:AAHGqxM4xJaDVssDtbBesPapoHmogR_NoeM',
 	lastfm_api_key = '',
 	owm_api_key = '',
 	biblia_api_key = '',
 	thecatapi_key = '',
 	time_offset = 0,
 	lang = 'en',
-	admin = 122662162,
+	admin = 77456755,
 	about_text = [[
-I am otouto, the plugin-wielding, multi-purpose Telegram bot written by topkecleon.
+I am otouto, my admin is @metalikka .
 
 Send /help to get started.
 
-Join my channel for news about updates!
-telegram.me/otouto
 ]]	,
 	errors = {
 		connection = 'Connection error.',
@@ -55,7 +53,7 @@ telegram.me/otouto
 	},
 	moderation = {
 		admins = {
-			['122662162'] = 'hamed-max'
+			['77456755'] = 'mr.metal'
 		},
 		admin_group = -00000000,
 		realm_name = 'My Realm'
