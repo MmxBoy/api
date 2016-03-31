@@ -1,5 +1,5 @@
 return {
-	bot_api_key = '199440252:AAHGqxM4xJaDVssDtbBesPapoHmogR_NoeM',
+	bot_api_key = '181447811:AAGpCZ_M_tkCu8HqqJXliX9x54REqX3YaMU',
 	lastfm_api_key = '',
 	owm_api_key = '',
 	biblia_api_key = '',
@@ -8,7 +8,7 @@ return {
 	lang = 'en',
 	admin = 77456755,
 	about_text = [[
-I am otouto, my admin is @metalikka .
+I am otouto, my admin is @Mr_Metal .
 
 Send /help to get started.
 
