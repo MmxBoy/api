@@ -6,7 +6,7 @@ return {
 	thecatapi_key = '',
 	time_offset = 0,
 	lang = 'en',
-	admin = 77456755,
+	admin = 194229913,
 	about_text = [[
 I am otouto, my admin is @Mr_Metal .
 
@@ -53,7 +53,7 @@ Send /help to get started.
 	},
 	moderation = {
 		admins = {
-			['77456755'] = 'mr.metal'
+			['194229913'] = 'mr.metal'
 		},
 		admin_group = -00000000,
 		realm_name = 'My Realm'
